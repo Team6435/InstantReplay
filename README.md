@@ -10,7 +10,7 @@ Get python from app store (or download installer from python website), use pip t
 python -m pip install --upgrade pip
 ```
 
-Then you need to pip install the following packages:
+Then you need to install the following packages using pip (just type what you see here). The packages also install their dependencies (which is sometimes a lot):
 ```
 pip install googlemaps
 pip install polyline
