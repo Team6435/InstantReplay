@@ -7,7 +7,7 @@ your friends. You choose a route you want to walk, create a map (the current map
 
 Get python from app store (or download installer from python website), use pip to install needed packages. First upgrade pip
 ```
-pip upgrade
+python -m pip install --upgrade pip
 ```
 
 Then you need to pip install the following packages:
